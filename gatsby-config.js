@@ -17,11 +17,11 @@ module.exports = {
       options: {
         navigation: [
           {
-            title: `Blog`,
+            title: `words`,
             slug: `/blog`,
           },
           {
-            title: `About`,
+            title: `about`,
             slug: `/about`,
           },
         ],
